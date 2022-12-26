@@ -18,7 +18,7 @@ export default {
         },
         {
             name:'userId',
-            title:'userId',
+            title:'UserId',
             type:'string',
         },
         {
@@ -27,8 +27,8 @@ export default {
             type:'postedBy'
         },
         {
-            name:'Likes',
-            title:'likes',
+            name:'likes',
+            title:'Likes',
             type:'array',
             of:[
                 {
